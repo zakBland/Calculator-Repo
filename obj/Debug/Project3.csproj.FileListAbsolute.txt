@@ -1,0 +1,15 @@
+C:\Users\bland\OneDrive\Documents\Computer Science\Class\C# Programming & .NET CSC 470\Project3\bin\Debug\Project3.exe.config
+C:\Users\bland\OneDrive\Documents\Computer Science\Class\C# Programming & .NET CSC 470\Project3\bin\Debug\Project3.exe
+C:\Users\bland\OneDrive\Documents\Computer Science\Class\C# Programming & .NET CSC 470\Project3\bin\Debug\Project3.pdb
+C:\Users\bland\OneDrive\Documents\Computer Science\Class\C# Programming & .NET CSC 470\Project3\obj\Debug\Project3.csprojAssemblyReference.cache
+C:\Users\bland\OneDrive\Documents\Computer Science\Class\C# Programming & .NET CSC 470\Project3\obj\Debug\MainWindow.g.cs
+C:\Users\bland\OneDrive\Documents\Computer Science\Class\C# Programming & .NET CSC 470\Project3\obj\Debug\App.g.cs
+C:\Users\bland\OneDrive\Documents\Computer Science\Class\C# Programming & .NET CSC 470\Project3\obj\Debug\Project3_MarkupCompile.cache
+C:\Users\bland\OneDrive\Documents\Computer Science\Class\C# Programming & .NET CSC 470\Project3\obj\Debug\Project3_MarkupCompile.lref
+C:\Users\bland\OneDrive\Documents\Computer Science\Class\C# Programming & .NET CSC 470\Project3\obj\Debug\MainWindow.baml
+C:\Users\bland\OneDrive\Documents\Computer Science\Class\C# Programming & .NET CSC 470\Project3\obj\Debug\Project3.g.resources
+C:\Users\bland\OneDrive\Documents\Computer Science\Class\C# Programming & .NET CSC 470\Project3\obj\Debug\Project3.Properties.Resources.resources
+C:\Users\bland\OneDrive\Documents\Computer Science\Class\C# Programming & .NET CSC 470\Project3\obj\Debug\Project3.csproj.GenerateResource.cache
+C:\Users\bland\OneDrive\Documents\Computer Science\Class\C# Programming & .NET CSC 470\Project3\obj\Debug\Project3.csproj.CoreCompileInputs.cache
+C:\Users\bland\OneDrive\Documents\Computer Science\Class\C# Programming & .NET CSC 470\Project3\obj\Debug\Project3.exe
+C:\Users\bland\OneDrive\Documents\Computer Science\Class\C# Programming & .NET CSC 470\Project3\obj\Debug\Project3.pdb
